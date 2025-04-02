@@ -55,6 +55,8 @@
 <br>
 <img src="./img_wordpress.png">
 <br>
+<br>
+<br>
 ローディングアニメーションはAfterEffectsを使用し作成、JSにて実装しました。<br>
 <img src="./img_load.png">
 
