@@ -55,7 +55,8 @@
 <br>
 <img src="./img_wordpress.png">
 <br>
-ローディングアニメーションはAfterEffectsを使用し作成、JSにて実装しました。
+ローディングアニメーションはAfterEffectsを使用し作成、JSにて実装しました。<br>
+<img src="./img_load.png">
 
 ## 使用技術・ソフト
 [![スキル](https://skillicons.dev/icons?i=html,css,sass,js,wordpress,figma,ai,ps,ae,vscode&perline=5)]()
