@@ -15,7 +15,7 @@
 
 ## 調査
 
-お店の方針上聞き込みはNG。オーナー様の話によるとほとんどが常連客。<br>
+一人一人の時間を過ごすという、お店の方針上聞き込みはNG。オーナー様の話によるとほとんどが常連客。<br>
 うち年齢層は40代~70代と高い。コーヒーが評判で常連客のほとんどがコーヒーチケットを購入している。<br>
 新規客については、ばらつきはあるもののGoogleレビューや食べログに月に1つほど投稿されており、<br>
 確かに新規が訪れていることがわかった。恐らくインターネットで知って来店している。こちらもコーヒーが好評。<br>
@@ -32,11 +32,24 @@
 - お知らせ一覧ページ
 - お知らせ個別ページ
 
-## デザイン情報
+**デザイン情報**
 
 - フォント：しっぽり明朝
-- メインカラー： <span style="display:inline-block; width:20px; height:20px; background-color:#904e4e; border-radius:3px;"></span> `#904e4e`
-- サブカラー： <span style="display:inline-block; width:20px; height:20px; background-color:#8e5767; border-radius:3px;"></span> `#8e5767`
+- メインカラー： <span style="display:inline-block; width:20px; height:20px; background-color:#904e4e; border-radius:3px;"></span> 
+- サブカラー： <span style="display:inline-block; width:20px; height:20px; background-color:#8e5767; border-radius:3px;"></span> 
+
+**ポイント**
+コーヒーの評判の良いお店だったためコーヒーを連想させる要素を散りばめています。
+そのためメインカラーはブラウン、文字アニメーションはブラーがかかって出てくるものですが、<br>
+これはコーヒーの湯気をイメージしたものです。<br>
+またバックグラウンドの色はお店の壁をモチーフにしました。<br>
+左上のロゴは、ファーストビューでは必要性のないもののため、次のセクションまでスクロールすると<br>
+出現する様にしました。そして慣性スクロールを採用しており、これによってお店のゆったりとしたコンセプト<br>
+を表現しています。
+お店のSNSがないことからお知らせ機能を投稿できる様WordPressを使用しています。<br>
+またサイト内の料金表示部分はWordPress内で変更できる様実装しました。
+メニューページも随時更新が可能で、こちらは投稿量が膨大になることを想定し、<br>
+視認性の観点から管理画面でカテゴリーごとに色分けがされるようにしています。<br>
 
 ## 使用技術・ソフト
 [![スキル](https://skillicons.dev/icons?i=html,css,sass,js,wordpress,figma,ai,ps,ae,vscode&perline=5)]()
