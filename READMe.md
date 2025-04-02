@@ -51,6 +51,7 @@
 またサイト内の料金表示部分はWordPress内で変更できる様実装しました。 <br>
 メニューページも随時更新が可能で、こちらは投稿量が膨大になることを想定し、 <br>
 視認性の観点から管理画面でカテゴリーごとに色分けがされるようにしています。 <br>
+ローディングアニメーションはAfterEffectsを使用し作成、JSにて実装しました。
 
 ## 使用技術・ソフト
 [![スキル](https://skillicons.dev/icons?i=html,css,sass,js,wordpress,figma,ai,ps,ae,vscode&perline=5)]()
