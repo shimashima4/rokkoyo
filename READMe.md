@@ -38,5 +38,5 @@
 - メインカラー： <span style="display:inline-block; width:20px; height:20px; background-color:#904e4e; border-radius:3px;"></span> `#904e4e`
 - サブカラー： <span style="display:inline-block; width:20px; height:20px; background-color:#8e5767; border-radius:3px;"></span> `#8e5767`
 
-## 使用ソフト
-[![スキル](https://skillicons.dev/icons?i=html,css,sass,js,wordpress,figma,ai,ps,ae&perline=5)]()
+## 使用技術・ソフト
+[![スキル](https://skillicons.dev/icons?i=html,css,sass,js,wordpress,figma,ai,ps,ae,vscode&perline=5)]()
