@@ -26,19 +26,19 @@
 *新規客▶︎食べログなど見る▶︎HPを見る▶︎お店に来店したくなる*
 
 ## 制作
-**サイト構成**
+**サイト構成** <br>
 - トップページ
 - メニュー一覧ページ(カテゴリーごと)
 - お知らせ一覧ページ
 - お知らせ個別ページ
 
-**デザイン情報**
+**デザイン情報** <br>
 
 - フォント：しっぽり明朝
 - メインカラー： <span style="display:inline-block; width:20px; height:20px; background-color:#904e4e; border-radius:3px;"></span> 
 - サブカラー： <span style="display:inline-block; width:20px; height:20px; background-color:#8e5767; border-radius:3px;"></span> 
 
-**ポイント**
+**ポイント** <br>
 コーヒーの評判の良いお店だったためコーヒーを連想させる要素を散りばめています。
 そのためメインカラーはブラウン、文字アニメーションは <br> ブラーがかかって出てくるものですが
 これはコーヒーの湯気をイメージしたものです。<br>
