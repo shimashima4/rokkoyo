@@ -39,4 +39,4 @@
 - サブカラー： <span style="display:inline-block; width:20px; height:20px; background-color:#8e5767; border-radius:3px;"></span> `#8e5767`
 
 ## 使用ソフト
-[![スキル](https://skillicons.dev/icons?i=html,css,sass,js,wordpress,figma,ai,ps,ae&perline=3)]()
+[![スキル](https://skillicons.dev/icons?i=html,css,sass,js,wordpress,figma,ai,ps,ae&perline=5)]()
