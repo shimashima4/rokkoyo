@@ -1,8 +1,8 @@
 ## 作品概要
 
 進級制作として、喫茶店の六古窯瑞穂店さまにご協力いただきホームページを制作しました。
-デザイン、コーディングなど全て自主制作です。
-[blog](https://aoshima.pupu.jp/rokkoyo)
+デザイン、コーディングなど全て自主制作です。<br>
+作品リンク：[六古窯 瑞穂店](https://aoshima.pupu.jp/rokkoyo)
 
 <img src="./img.png">
 
